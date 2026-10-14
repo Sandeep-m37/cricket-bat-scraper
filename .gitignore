@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local databases
+*.db
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
